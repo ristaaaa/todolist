@@ -18,5 +18,5 @@ Aplikasi sederhana berbasis PHP untuk mencatat tugas harian
 1. Salin folder ke htdocs
 2. Jalankan XAMPP dan buka di http://localhost/To-Do-List
 
-##Kontributor
+## Kontributor
 [Rista Aryanti](https://github.com/ristaaaa)
